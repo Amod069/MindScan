@@ -7,7 +7,8 @@ venv/
 
 # Model files — too large for GitHub (download from Drive)
 models/
-
+Dataset/
+*.csv
 # Colab / Jupyter checkpoints
 .ipynb_checkpoints/
 *.ipynb_checkpoints
